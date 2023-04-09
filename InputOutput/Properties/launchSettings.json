@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "01-InputOutput": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable"
+    }
+  }
+}
